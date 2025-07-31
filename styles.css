@@ -1,4 +1,5 @@
- @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700;800&display=swap');
+<style>
+        @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;500;600;700;800;900&family=Inter:wght@300;400;500;600;700;800&display=swap');
         
         :root {
             --primary-pink: #FF69B4;
@@ -189,3 +190,4 @@
             transform: scale(1.1);
             box-shadow: 0 15px 40px rgba(255, 105, 180, 0.6);
         }
+    </style>
